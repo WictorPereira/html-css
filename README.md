@@ -1,12 +1,16 @@
 # html-css
  Exercicios e desafios do Curso em Video HTML5 CSS3
 
- Exercicios:
+ *Exercicios:*
  
 -https://wictorpereira.github.io/html-css/exercicios/ex-001
+
 -https://wictorpereira.github.io/html-css/exercicios/ex-002
+
 -https://wictorpereira.github.io/html-css/exercicios/ex-003
+
 -https://wictorpereira.github.io/html-css/exercicios/ex-004
+
 -https://wictorpereira.github.io/html-css/exercicios/ex-006
 -https://wictorpereira.github.io/html-css/exercicios/ex-007
 -https://wictorpereira.github.io/html-css/exercicios/ex-008
